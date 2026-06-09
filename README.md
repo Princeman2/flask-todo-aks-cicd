@@ -11,7 +11,7 @@ Every time code is pushed to the `main` branch, GitHub Actions automatically:
 - Pushes it to Docker Hub
 - Deploys the updated version to Azure AKS
 
-**Live Application:** http://20.164.127.244 (or your current IP)
+**Live Application:** http://20.164.127.244
 
 ## 🛠️ Tech Stack
 
