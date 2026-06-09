@@ -23,7 +23,7 @@ Every time code is pushed to the `main` branch, GitHub Actions automatically:
 
 ## 📸 Pipeline Screenshots
 
-![GitHub Actions Success](github-actions-success.png)  
+![GitHub Actions Success](github-actions-sucess.png)  
 *Complete CI/CD workflow running successfully*
 
 ![CI/CD Detailed Logs](ci-cd-logs.png)  
